@@ -1,0 +1,1 @@
+package net.plyse.enigma;/** * @author Raphael Dichler on 25.02.21 * @project Enigma */public class Main {    public static void main(String[] args) {        System.out.println("Hello World");    }}
